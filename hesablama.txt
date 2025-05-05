@@ -1,0 +1,27 @@
+Zelzele
+Umumi deyer 240(zelzel:mobil+data merkezi +telekamonikasiya qorsagi)
+BBC (2011)-də Yaponiyadakı zəlzələ => 200-dən çox mobil stansiyanın sıradan çıxması  – bu (200 ÷ 240) × 5 ≈ 4.2
+Data merkezi: (25 ÷ 240) × 5 ≈ 2.2
+Telekomonikasya:(15 ÷ 240) × 5 = 2.0
+
+Sunami 
+Ümumi : 300
+Mobil rabitə:(105 ÷ 300) × 5 = 3.5
+Data mərkəzlər: (132 ÷ 300) × 5 = 4.4 
+Telekommunikasiya qovşaqları – 63 vahid-(63 ÷ 300) × 5 = 2.5 
+
+ Qasırğa
+ Mobil rabitə – 100 =>  (100 ÷ 200) × 5 = 2.5
+ Data mərkəzləri – 70 =>: (70 ÷ 200) × 5 = 1.75 ≈ 1.8
+ Telekommunikasiya :(30 ÷ 200) × 5 = 0.75 ≈ 1.5
+
+ Sel
+ Mobil rabitə – 220 => (220 ÷ 250) × 5 = 4.4 ≈ 4.5
+ Data mərkəzləri – 70  => (70 ÷ 250) × 5 = 1.4 
+ Telekommunikasiya qovşaqları – 50 => (50 ÷ 250) × 5 = 1.0 
+
+
+ Linkler
+ zelzele,Sunami :https://www.bbc.com/news/technology-12731320
+ qasirga:https://www.fcc.gov/news-events/blog/2013/06/07/preparing-hurricane-season
+
